@@ -87,8 +87,7 @@ The Power BI report consists of an interactive dashboard featuring the following
 # Snapshot of Dashboard (Power BI)
 
 ### Insurance Analytics Dashboard
-
-<img width="100%" alt="Insurance Analytics Dashboard" src="images/insurance-analytics-dashboard.png" />
+<img width="1315" height="735" alt="image" src="https://github.com/user-attachments/assets/a5dd3e92-b699-4cb6-8e05-d131a0d6f251" />
 
 # Key Insights & Analytical Findings
 
