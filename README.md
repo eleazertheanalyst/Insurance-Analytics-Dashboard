@@ -1,5 +1,5 @@
 # Insurance Analytics Dashboard (Power BI)
-[Dashboard Link]()
+<img width="1315" height="735" alt="image" src="https://github.com/user-attachments/assets/a5dd3e92-b699-4cb6-8e05-d131a0d6f251" />
 
 ## Project Overview
 
